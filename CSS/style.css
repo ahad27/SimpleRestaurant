@@ -1,0 +1,29 @@
+body {
+  padding: 0;
+  margin: 0;
+}
+ul,
+li {
+  text-decoration: underline;
+  color: lightcoral;
+}
+
+table,
+tr,
+td {
+  padding: 5px;
+}
+h4 {
+  margin-left: 2rem;
+}
+
+.title {
+  text-align: center;
+  color: lightsalmon;
+  font-size: 5rem;
+}
+
+.title-menu {
+  margin-left: 20rem;
+  font-size: 2.5rem;
+}
